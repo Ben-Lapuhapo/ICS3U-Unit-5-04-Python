@@ -2,7 +2,7 @@
 
 # Created by: Ben Lapuhapo
 # Created on: November 22 2019
-# This program claculates the volume of a cylinder
+# This program calculates the volume of a cylinder
 
 import math
 
