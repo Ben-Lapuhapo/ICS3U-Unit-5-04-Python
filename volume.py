@@ -8,13 +8,12 @@ import math
 
 
 def calculate_volume(radius, height):
-    # calculate area
-
+    # calculate volume
     # process
     volume = math.pi * radius ** 2 * height
 
     # output
-    print("Volume is {:.2f}cm3".format(volume))
+    print("Volume is {:.2f} cm3".format(volume))
     return volume
 
 
